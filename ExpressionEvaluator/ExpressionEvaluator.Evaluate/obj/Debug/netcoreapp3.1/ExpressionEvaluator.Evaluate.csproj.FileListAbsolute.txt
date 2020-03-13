@@ -1,0 +1,7 @@
+D:\Munir\ExpressionEvaluator\ExpressionEvaluator.Evaluate\bin\Debug\netcoreapp3.1\ExpressionEvaluator.Evaluate.deps.json
+D:\Munir\ExpressionEvaluator\ExpressionEvaluator.Evaluate\bin\Debug\netcoreapp3.1\ExpressionEvaluator.Evaluate.dll
+D:\Munir\ExpressionEvaluator\ExpressionEvaluator.Evaluate\bin\Debug\netcoreapp3.1\ExpressionEvaluator.Evaluate.pdb
+D:\Munir\ExpressionEvaluator\ExpressionEvaluator.Evaluate\obj\Debug\netcoreapp3.1\ExpressionEvaluator.Evaluate.AssemblyInfoInputs.cache
+D:\Munir\ExpressionEvaluator\ExpressionEvaluator.Evaluate\obj\Debug\netcoreapp3.1\ExpressionEvaluator.Evaluate.AssemblyInfo.cs
+D:\Munir\ExpressionEvaluator\ExpressionEvaluator.Evaluate\obj\Debug\netcoreapp3.1\ExpressionEvaluator.Evaluate.dll
+D:\Munir\ExpressionEvaluator\ExpressionEvaluator.Evaluate\obj\Debug\netcoreapp3.1\ExpressionEvaluator.Evaluate.pdb
